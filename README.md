@@ -1,4 +1,4 @@
-# Psychology-portfolio# Psychology Research Portfolio
+# Psychology-portfolio
 
 **Yejin Jung | Psychology Bachelor's Student**
 
