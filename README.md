@@ -44,7 +44,7 @@ A simulated clinical case assessment exploring potential psychological explanati
 
 [Project Repository](https://github.com/yejinjung527/psychological-diagnostic-assessment)
 
-### 04. From Cradle to Connection: Attachment Theory as a Developmental Revolution
+### 03. From Cradle to Connection: Attachment Theory as a Developmental Revolution
 **Research area:** Developmental Psychology
 
 An individual academic paper exploring the historical development and contemporary relevance of attachment theory.
@@ -56,7 +56,7 @@ An individual academic paper exploring the historical development and contempora
 
 [Project Repository](https://github.com/yejinjung527/attachment-theory)
 
-### 05. Qualitative Observation and Critical Reflection
+### 04. Qualitative Observation and Critical Reflection
 **Research area:** Qualitative and Interdisciplinary Approaches
 
 An academic project combining field observations, critical engagement with theoretical readings, and personal reflection.
